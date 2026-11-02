@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_VERCEL_URL"><strong>🌐 LIVE DEMO</strong></a> &nbsp; | &nbsp;
-  <a href="YOUR_GITHUB_URL"><strong>💻 SOURCE CODE</strong></a>
+  <a href="https://dosje-sentinel.vercel.app/"><strong>🌐 LIVE DEMO</strong></a> &nbsp; | &nbsp;
+  <a href="https://github.com/jeevananthan297/dosje_sentinel.git"><strong>💻 SOURCE CODE</strong></a>
 </p>
 
 <p align="center">
